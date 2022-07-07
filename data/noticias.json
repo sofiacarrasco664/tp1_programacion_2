@@ -1,0 +1,52 @@
+[
+    {
+            "noticia_id" : 1,
+            "fecha" : "Febrero 28, 2022",
+            "titulo" : "Adiestra A Tu Perro",
+            "texto" : "<ol><li><p>Demuestra que eres el dominante: Paciencia, no hace falta que grites, le pegues o lo regañes. La mejor manera de que te obedezca es ser enérgico y consecuente en tus palabras. Con una orden debería entender qué tiene que hacer.</p></li> <li><p>Se constante:Se perseverante, trata de darle clases cada dos o tres días como máximo. No te des por vencido si no ves cambios demasiado notorios. El aprendizaje puede ser lento, sobre todo si se trata de una mascota adulta. Los cachorros copian y retienen información con mayor facilidad.</p></li><li><p>Elige un sitio tranquilo:Es muy importante que el perro preste atención y se concentre en su adiestramiento, lo mejor será estar solos en casa donde nada lo moleste o distraiga. En algunos casos el perro aprenderá con mayor facilidad si ha liberado la energía acumulada. Las sesiones para adiestrar a un perro no deberían durar más de media hora, la idea es que se convierta en algo divertido y no en una tortura (para ti y para él).</p></li><li><p>Enséñale una sola cosa por clase: Existen diferentes trucos que el animal puede aprender si lo adiestramos correctamente. Por ejemplo, que se siente, que nos tienda la pata, que se tumbe, que acuda a nuestra llamada o que pasee a nuestro lado. Pero no podemos pretender que el perro lo sepa hacer todo al mismo tiempo, por ello cada sesión de entrenamiento deberá ejercitar una única orden.</p></li><li><p>No te olvides de los premios: Las mascotas funcionan con la técnica del premio y del castigo. Si se comporta como corresponde, puedes darle una golosina o galleta, o simplemente hacerle una caricia y decirle unas palabras de felicitación, como bien hecho o así se hace</p></li></ol>",
+            "sinopsis": "Te damos diferentes tips para poder entrenar a tu perro sin mucha complicación",
+            "img_chica_noticias" : "border_collie_dog_entrenando_con_amo_miniatura.jpg",
+            "img_noticias" : "border_collie_dog_entrenando_con_amo.jpg",
+            "img_descripcion_noticias" : "Border Collie entrenando con su dueño"
+    },
+    {
+            "noticia_id" : 2,
+            "fecha" : "febrero 10, 2022",
+            "titulo" : "Premios Congelados",
+            "texto" : "Comparte estos ricos premios caseros congelados con tu regalón en San Valentín <h3>Ingredientes:</h3> <ul> <li>1 taza de frutilla</li> <li>1 plátano</li> <li>1/2 taza de yogur griego natural</li> <ol> <li> Paso 1: Corta en trozos el platano y la frutilla, luego vierte los 2 ingredientes en una licuadora hasta que tenga consistencia espesa. </li> <li> Paso 2: Vierte la mezcla en un molde con forma de corazón y lleva al congelador por 5 horas. </li> <li> Paso 3: Sirve estos maravillosos premios a tu regalón y disfruta de su San Valentin Peludo.</li></ol>",
+            "sinopsis": "Receta de bocaditos perfectos para hacer feliz a tu mascota.",
+            "img_chica_noticias" : "bocaditos_en_forma_de_corazon_apto_mascotas_miniatura.jpg",
+            "img_noticias" : "bocaditos_en_forma_de_corazon_apto_mascotas.jpg",
+            "img_descripcion_noticias" : "Bocados frios en forma de corazón"
+    },
+    {
+        "noticia_id" : 3,
+        "fecha" : "Enero 26, 2022",
+        "titulo" : "Tu gato amará su arenero",
+        "texto" : "Sabemos que los gatos son mascotas muy limpias y delicadas con su entorno, sobre todo si se trata del lugar donde hacen sus necesidades. Sigue estos tips para que tu gatito disfrute y ame su bandeja de arena. <ol><li> 1.Elige una bandeja profunda ya que les gusta escarbar, para evitar que bote afuera restos de tierra.</li><li>2.Ubicala en un lugar sin mucho transito y tranquilo, si tienes 2 gatos deberás tener 2 ya que no les gusta compartir.</li><li>3.Mantenla limpia, preferiblemente hacerlo semanalmente con agua y detergentes, así se mantendrá libre de olores.</li><li>4.Utiliza palas sanitarias, así no tendrás que botar toda la arena y solo retiras los restos sucios.</li></ol>",
+        "sinopsis": "¿Tu gato no te hace caso y hace sus necesidades en cualquier lado? vamos a ayudarte con eso.",
+        "img_chica_noticias" : "gatito_en_caja_de_arena_miniatura.jpg",
+        "img_noticias" : "gatito_en_caja_de_arena.jpg",
+        "img_descripcion_noticias" : "Gato en frente de caja de arena"
+},
+{
+        "noticia_id" : 4,
+        "fecha" : "Enero 20, 2022",
+        "titulo" : "Viajar con Tu Mascota",
+        "texto" : "Viajar con una mascota parece simple, pero hay muchos cuidados que se deben tener en cuenta para que, tanto tú como tu mascota, tengan un placentero trayecto, aquí te dejamos estos tips <ol><li>1.Adecúa tu destino a tu mascota: Revisa que tu destino sea Pet Friendly, es necesario que nuestra mascota se sienta cómoda en cualquier lugar para evitar que se estrese. </li><li>2. Habla con tu veterinario: Realizale todos los estudios necesarios antes de hacer tu viaje e informale a tu veterinario de tu destino. </li><li>3. Haz que su trayecto sea agradable: Ponle su collar identificado con su nombre y si es posible realiza paradas para que se hidrate y se estire (usando siempre su correa).</li> <li>4. Facilita el proceso de alimentación: Ten a mano su comida, un bol plegable y su termo de agua para que se mantenga hidratada.</li><li> 5. Prepara su kit de emergencias: Lleva sus tratamientos o medicinas si es que esta usando y sus bolsas sanitarias para dejar siempre los lugares limpios.</li></ol>",
+        "sinopsis": "Viajar con tu mascota no es tan complicado como parece, te damos algunos tips para tener un viaje de lujo.",
+        "img_chica_noticias" : "perrito_en_auto_viajando_miniatura.jpg",
+        "img_noticias" : "perrito_en_auto_viajando.jpg",
+        "img_descripcion_noticias" : "Perro asomado desde la ventana de un auto"
+},
+{
+        "noticia_id" : 5,
+        "fecha" : "Enero 14, 2022",
+        "titulo" : "Gatitos acalorados",
+        "texto" : "En estos meses tan calurosos es importante asegurar el bienestar de nuestros amigos felinos. Con pequeños gestos, y tomando consciencia de nuestro entorno, podemos darle a nuestro gato una temporada de vacaciones mejor. Las altas temperaturas pueden suponer una verdadera amenaza para los gatos. <br/> Por ello queremos compartir con vosotros, sobre todo con los padres primerizos que han incorporado a un nuevo miembro a su familia, 10 consejos para proteger a tu gato del calor.Sigue estos pasos para que tu gatito la pase mejor durante el verano:<ol><li>1.Tener siempre agua fresca en el bebedero.</li><li>2.Protégelo del sol, evita que este en contacto directo por mucho tiempo.</li><li>3.Mantén un ambiente fresco en tu hogar.</li><li>4.Refréscalo con toallas húmedas.</li><li>5.Mantén un buen cepillado para que esté libre de cabello muerto.</li></ol>",
+        "sinopsis": "¿Calores tormentosos para tu gato? Ya no más, te damos los mejores tips para el bienestar de tu gatito.",
+        "img_chica_noticias" : "gato_banandose_miniatura.jpg",
+        "img_noticias" : "gato_banandose.jpg",
+        "img_descripcion_noticias" : "Gatito bañandose al lado de una ventana"
+}
+]

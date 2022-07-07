@@ -1,0 +1,74 @@
+[
+        {
+                "producto_id" : 1,
+                "nombre" : "Vital Fiber Cepillo",
+                "descripcion" : "Buddy Pet trae los nuevo snacks cepillo para perro que ayudan en el cuidado dental, con una nutritiva mezcla de frutas, verduras y prebióticos que ayudan a mejoran la salud digestiva de tu mascota.",
+                "img" : "vital_fiber_cepillo_7_600x600.jpg",
+                "img_grande" : "vital_fiber_cepillo_7_600x600_grande.jpg",
+                "img_descripcion" : "Vital Fiber Cepillo, golosina para perros"
+        },
+        {
+                "producto_id" : 2,
+                "nombre" : "Galletas de Arándano",
+                "descripcion" : "Nuevas galletas horneadas ideales para regalonear a tu perro. Contienen Probiótico Inmunológico (precursor de la flora intestinal) y Omega 3 con el más rico sabor a arándano.",
+                "img" : "galleta_arandano_200_600x600.jpg",
+                "img_grande" : "galleta_arandano_grande.jpg",
+                "img_descripcion" : "Galletas de Arándano aptas para perros"
+        },
+        {
+                "producto_id" : 3,
+                "nombre" : "Munchy Sticks",
+                "descripcion" : "Palitos Masticables de Cuero de Vacuno con Sabor a Pollo.",
+                "img" : "munchy_stick_600x600.jpg",
+                "img_grande" : "munchy_stick_grande.jpg",
+                "img_descripcion" : "Munchy Sticks, huesos masticables para animales"
+        },  
+        {
+                "producto_id" : 4,
+                "nombre" : "Hueso Avena Menta",
+                "descripcion" : "Snack Hueso Avena Menta, ideales para refrescar el aliento y cuidar la higiene bucal de tu mascota.",
+                "img" : "snack_hueso_avena_menta_600x600.jpg",
+                "img_grande" : "snack_hueso_avena_menta_grande.jpg",
+                "img_descripcion" : "Hueso Avena Menta, huesos para perros de menta"
+        },  
+        {
+                "producto_id" : 5,
+                "nombre" : "Hueso Blanco",
+                "descripcion" : "Hueso cuero natural para perro envuelto en pollo.",
+                "img" : "hueso_cuero_pollo_m_600x600.jpg",
+                "img_grande" : "hueso_cuero_pollo_m_grande.jpg",
+                "img_descripcion" : "Hueso Blanco Envuelto en Pollo para perros"
+        },
+        {
+                "producto_id" : 6,
+                "nombre" : "Shampoo Seco Repelente",
+                "descripcion" : "Repelente natural para eliminar las pulgas de tu gatito.",
+                "img" : "shampoo_repelente_pulgas_gato_600x600.jpg",
+                "img_grande" : "shampoo_repelente_pulgas_gato_grande.jpg",
+                "img_descripcion" : "Shampoo seco y repelente, especial para gatos"
+        },
+        {
+                "producto_id" : 7,
+                "nombre" : "Juguete para Gato",
+                "descripcion" : "Juguete caña que desarrolla su concentración, su vista y su coordinación, contribuye a satisfacer su instinto cazador.",
+                "img" : "juguete_gato_cana_scaled_600x600.jpg",
+                "img_grande" : "juguete_gato_cana_scaled_grande.jpg",
+                "img_descripcion" : "Juguete para Gato hecho de caña rosa"
+        },
+        {
+                "producto_id" : 8,
+                "nombre" : "Juguete Plush",
+                "descripcion" : "Ratones de juguete con catnip para gatos, diferentes texturas y colores que favorecen el instinto de caza, ideal para perseguir y capturar, entreteniendo a nuestro gato por horas.",
+                "img" : "plush_2_pzas_600x600.jpg",
+                "img_grande" : "plush_2_pzas_grande.jpg",
+                "img_descripcion" : "Juguete de plush de 2 piezas para gato"
+        },
+        {
+                "producto_id" : 9,
+                "nombre" : "Juguete Tunel",
+                "descripcion" : "Juguete tunel para gato, ideal para jugar, correr, esconderse y entretenerse por horas. Medidas: 26x26x49 cm",
+                "img" : "tunel_para_gato_600x600.jpg",
+                "img_grande" : "tunel_para_gato_grande.jpg",
+                "img_descripcion" : "Tunel para que jueguen los gatos"
+        }        
+]
